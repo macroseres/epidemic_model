@@ -1,13 +1,13 @@
-## Modelo Epidemico SEAIHDR
+# Modelo Epidemico SEAIHDR
 
-# Resumo
+## Resumo
 
-# Instalação
+## Instalação
 
-# Cómo usar
+## Cómo usar
 
-# Contribuições
+## Contribuições
 
-# Suporte
+## Suporte
 
-# License
+## License
